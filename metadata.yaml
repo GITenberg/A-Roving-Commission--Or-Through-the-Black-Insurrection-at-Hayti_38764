@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1032
     wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38764#A-Roving-Commission--Or-Through-the-Black-Insurrection-at-Hayti
 gutenberg_issued: '2012-02-04'
 gutenberg_type: Text
 identifiers:
